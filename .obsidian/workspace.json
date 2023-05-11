@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "45c29fe54d292d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello there.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hello there.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hello there.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hello there.md"
+              }
             }
           }
         ]
@@ -138,9 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caada22a7c9c6f96",
+  "active": "45c29fe54d292d37",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230511.md",
+    "hello there.md",
     "Day Planners"
   ]
 }

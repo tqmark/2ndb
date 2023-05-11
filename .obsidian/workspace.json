@@ -11,8 +11,12 @@
             "id": "0048fa18eba2e90a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Resouces/test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resouces/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Resouces/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Resouces/test.md"
+              }
             }
           }
         ]
@@ -138,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caada22a7c9c6f96",
+  "active": "0048fa18eba2e90a",
   "lastOpenFiles": [
+    "4. Archives/test.md",
+    "3. Resouces/test.md",
+    "1. Projects/Algo/test.md",
+    "2. Areas/test.md",
+    "2. Areas.md",
     "2. Areas",
-    "2. Areas.md",
-    "2. Areas.md",
     "4. Archives",
     "3. Resouces",
     "1. Projects/Algo",

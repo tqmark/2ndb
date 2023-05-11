@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "caef177aa81adf99",
+    "id": "041ad767d58308dd",
     "type": "split",
     "children": [
       {
-        "id": "ec11f0159af6a15f",
+        "id": "ebfad34dcbb21474",
         "type": "tabs",
         "children": [
           {
-            "id": "8485e4e8675f3176",
+            "id": "0048fa18eba2e90a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hello there.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f6c2213766cf29c3",
+    "id": "84da738eeecafe51",
     "type": "split",
     "children": [
       {
-        "id": "b17b82b056177b5a",
+        "id": "08f734730db71521",
         "type": "tabs",
         "children": [
           {
-            "id": "035b8f81b40f8ae7",
+            "id": "caada22a7c9c6f96",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "87204aa533a90439",
+            "id": "4f85b9de49553c71",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "5b83ea39b1e21661",
+            "id": "e3e24d73acad7e13",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "5e1b4c572f1b977e",
+    "id": "9b93ad3f37c91acb",
     "type": "split",
     "children": [
       {
-        "id": "63b743c8c439dc87",
+        "id": "e8ccfa59006176c8",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4b4c24bc281920",
+            "id": "abed338ef2936174",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello there.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "7ec4cc0f3e250103",
+            "id": "7254dc689a516edd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello there.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8fe642731be4af89",
+            "id": "f563825a8b36c3d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "ddf8da0c66cb8a73",
+            "id": "abdaf24bc03ec3e1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hello there.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8485e4e8675f3176",
+  "active": "caada22a7c9c6f96",
   "lastOpenFiles": [
-    "hello there.md"
+    "2. Areas",
+    "2. Areas.md",
+    "2. Areas.md",
+    "4. Archives",
+    "3. Resouces",
+    "1. Projects/Algo",
+    "1. Projects",
+    "hello there.md",
+    "Day Planners/Day Planner-20230511.md",
+    "Day Planners"
   ]
 }

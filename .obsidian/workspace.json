@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/How the web work/Untitled.md",
+                "file": "1. Projects/Vue/Components Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/How the web work/Untitled.md",
+                "file": "1. Projects/Vue/Components Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/How the web work/Untitled.md",
+                "file": "1. Projects/Vue/Components Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/How the web work/Untitled.md"
+                "file": "1. Projects/Vue/Components Basics.md"
               }
             }
           }
@@ -148,8 +148,28 @@
   },
   "active": "8485e4e8675f3176",
   "lastOpenFiles": [
-    "4. Archives/test.md",
+    "1. Projects/Vue/Template Refs.md",
+    "1. Projects/Vue/Components Basics.md",
+    "1. Projects/Vue/Watchers.md",
+    "1. Projects/Vue/lifecycle hooks.md",
+    "1. Projects/Vue/Form input bindings.md",
+    "1. Projects/Vue/Event handling.md",
+    "1. Projects/Vue/List rendering.md",
+    "1. Projects/Vue/Conditional Rederinng.md",
+    "1. Projects/Vue/Class and style bindings.md",
+    "1. Projects/Vue/Computed Properties.md",
+    "1. Projects/Vue/Reactivity fundamentals.md",
+    "1. Projects/Vue/Composable Functions.md",
+    "1. Projects/Vue/Shallow reactive.md",
+    "1. Projects/Vue/Template syntax.md",
+    "1. Projects/Vue/Creating Vue app.md",
+    "1. Projects/Vue/nextTick.md",
+    "1. Projects/JS/Proxies.md",
+    "1. Projects/JS.md",
+    "1. Projects/JS",
     "1. Projects/How the web work/Untitled.md",
+    "1. Projects/Vue",
+    "4. Archives/test.md",
     "1. Projects/How the web work",
     "hello there.md",
     "4. Archives",

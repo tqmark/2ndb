@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3823f73f4adc64d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8485e4e8675f3176",
+  "active": "c3823f73f4adc64d",
   "lastOpenFiles": [
     "1. Projects/Vue/Template Refs.md",
     "1. Projects/Vue/Components Basics.md",

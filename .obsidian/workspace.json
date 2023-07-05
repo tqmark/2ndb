@@ -23,9 +23,11 @@
             "id": "c3823f73f4adc64d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "1. Projects/Nuxt3/Auto import.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e1b4c572f1b977e",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Vue/Components Basics.md",
+                "file": "1. Projects/Nuxt3/Auto import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Vue/Components Basics.md",
+                "file": "1. Projects/Nuxt3/Auto import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Vue/Components Basics.md"
+                "file": "1. Projects/Nuxt3/Auto import.md"
               }
             }
           }
@@ -159,6 +162,9 @@
   },
   "active": "c3823f73f4adc64d",
   "lastOpenFiles": [
+    "1. Projects/Untitled.md",
+    "1. Projects/Nuxt3/Auto import.md",
+    "1. Projects/Nuxt3",
     "1. Projects/Vue/Template Refs.md",
     "1. Projects/Vue/Components Basics.md",
     "1. Projects/Vue/Watchers.md",

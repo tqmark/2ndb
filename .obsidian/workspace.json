@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Nuxt3/Auto import.md",
+                "file": "1. Projects/Nuxt3/Client-Side Rendering.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e1b4c572f1b977e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Nuxt3/Auto import.md",
+                "file": "1. Projects/Nuxt3/Client-Side Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Nuxt3/Auto import.md",
+                "file": "1. Projects/Nuxt3/Client-Side Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Nuxt3/Auto import.md"
+                "file": "1. Projects/Nuxt3/Client-Side Rendering.md"
               }
             }
           }
@@ -162,8 +161,15 @@
   },
   "active": "c3823f73f4adc64d",
   "lastOpenFiles": [
-    "1. Projects/Untitled.md",
+    "Pasted image 20230705174423.png",
+    "1. Projects/Nuxt3/Rendering Modes.md",
+    "1. Projects/Nuxt3/Client-Side Rendering.md",
+    "1. Projects/Nuxt3/Nuxt3.md",
+    "1. Projects/Nuxt3/Universal rendering.md",
+    "Pasted image 20230705174150.png",
+    "1. Projects/Nuxt3/Vue with nuxt.md",
     "1. Projects/Nuxt3/Auto import.md",
+    "1. Projects/Untitled.md",
     "1. Projects/Nuxt3",
     "1. Projects/Vue/Template Refs.md",
     "1. Projects/Vue/Components Basics.md",
@@ -184,17 +190,11 @@
     "1. Projects/JS/Proxies.md",
     "1. Projects/JS.md",
     "1. Projects/JS",
-    "1. Projects/How the web work/Untitled.md",
     "1. Projects/Vue",
-    "4. Archives/test.md",
     "1. Projects/How the web work",
-    "hello there.md",
     "4. Archives",
-    "3. Resouces/test.md",
     "3. Resouces",
-    "2. Areas/test.md",
     "2. Areas",
-    "1. Projects/Algo/test.md",
     "1. Projects/Algo",
     "1. Projects"
   ]

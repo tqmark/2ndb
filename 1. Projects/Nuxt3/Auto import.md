@@ -1,1 +1,3 @@
-composable and vue api 
+composable and vue api to use across your application without explicitly importing them. based on the directory structure every nuxt application can also use auto import for its own components
+
+You can also auto-import functions exported from custom folders or third-party packages by configuring the [`imports` section](https://nuxt.com/docs/api/configuration/nuxt-config#imports) of your `nuxt.config` file.

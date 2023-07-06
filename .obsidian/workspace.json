@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Nuxt3/Client-Side Rendering.md",
+                "file": "1. Projects/Nuxt3/Data fetching.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Nuxt3/Client-Side Rendering.md",
+                "file": "1. Projects/Nuxt3/Data fetching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Nuxt3/Client-Side Rendering.md",
+                "file": "1. Projects/Nuxt3/Data fetching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Nuxt3/Client-Side Rendering.md"
+                "file": "1. Projects/Nuxt3/Data fetching.md"
               }
             }
           }
@@ -161,10 +161,18 @@
   },
   "active": "c3823f73f4adc64d",
   "lastOpenFiles": [
+    "1. Projects/Nuxt3/refreshNuxtData.md",
+    "1. Projects/Nuxt3/Data fetching.md",
+    "1. Projects/Nuxt3/useNuxtData.md",
+    "1. Projects/Nuxt3/useAsyncData.md",
+    "1. Projects/Nuxt3/Nuxt3.md",
+    "1. Projects/Nuxt3/$fetch.md",
+    "1. Projects/Nuxt3/useFetch.md",
+    "1. Projects/Vue/Suspense.md",
+    "1. Projects/Nuxt3/Nuxt devtools.md",
+    "1. Projects/Nuxt3/Client-Side Rendering.md",
     "Pasted image 20230705174423.png",
     "1. Projects/Nuxt3/Rendering Modes.md",
-    "1. Projects/Nuxt3/Client-Side Rendering.md",
-    "1. Projects/Nuxt3/Nuxt3.md",
     "1. Projects/Nuxt3/Universal rendering.md",
     "Pasted image 20230705174150.png",
     "1. Projects/Nuxt3/Vue with nuxt.md",
@@ -182,13 +190,6 @@
     "1. Projects/Vue/Class and style bindings.md",
     "1. Projects/Vue/Computed Properties.md",
     "1. Projects/Vue/Reactivity fundamentals.md",
-    "1. Projects/Vue/Composable Functions.md",
-    "1. Projects/Vue/Shallow reactive.md",
-    "1. Projects/Vue/Template syntax.md",
-    "1. Projects/Vue/Creating Vue app.md",
-    "1. Projects/Vue/nextTick.md",
-    "1. Projects/JS/Proxies.md",
-    "1. Projects/JS.md",
     "1. Projects/JS",
     "1. Projects/Vue",
     "1. Projects/How the web work",

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8485e4e8675f3176",
+            "id": "d0b31c8bf6c401c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/React/React.md",
+                "file": "1. Projects/How the web work/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/React/React.md",
+                "file": "1. Projects/How the web work/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/React/React.md",
+                "file": "1. Projects/How the web work/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/React/React.md"
+                "file": "1. Projects/How the web work/Untitled.md"
               }
             }
           }
@@ -146,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8485e4e8675f3176",
+  "active": "d0b31c8bf6c401c0",
   "lastOpenFiles": [
-    "1. Projects/Nuxt3/State management.md",
+    "test.md",
+    "Pasted image 20230705174423.png",
+    "Pasted image 20230705174150.png",
+    "1. Projects/Vue/Suspense.md",
+    "1. Projects/Untitled.md",
     "1. Projects/React/React.md",
     "1. Projects/React",
-    "1. Projects/Nuxt3/Nuxt3.md",
-    "1. Projects/Nuxt3/useFetch.md",
     "1. Projects/Nuxt3/useNuxtData.md",
-    "1. Projects/Vue/Components Basics.md",
+    "1. Projects/Nuxt3/useFetch.md",
     "1. Projects/Nuxt3/useAsyncData.md",
-    "1. Projects/Nuxt3/Data fetching key.md",
-    "1. Projects/Nuxt3/Data fetching.md",
     "1. Projects/Nuxt3/refreshNuxtData.md",
-    "1. Projects/Nuxt3/$fetch.md",
-    "1. Projects/Vue/Suspense.md",
-    "1. Projects/Nuxt3/Nuxt devtools.md",
-    "1. Projects/Nuxt3/Client-Side Rendering.md",
-    "Pasted image 20230705174423.png",
-    "1. Projects/Nuxt3/Rendering Modes.md",
-    "1. Projects/Nuxt3/Universal rendering.md",
-    "Pasted image 20230705174150.png",
     "1. Projects/Nuxt3/Vue with nuxt.md",
+    "1. Projects/Nuxt3/Universal rendering.md",
+    "1. Projects/Nuxt3/State management.md",
+    "1. Projects/Nuxt3/Rendering Modes.md",
+    "1. Projects/Nuxt3/Nuxt3.md",
+    "1. Projects/Nuxt3/Nuxt devtools.md",
+    "1. Projects/Nuxt3/Data fetching.md",
+    "1. Projects/Nuxt3/Data fetching key.md",
     "1. Projects/Nuxt3/Auto import.md",
-    "1. Projects/Untitled.md",
+    "1. Projects/Nuxt3/Client-Side Rendering.md",
+    "1. Projects/Nuxt3/$fetch.md",
     "1. Projects/Nuxt3",
-    "1. Projects/Vue/Template Refs.md",
-    "1. Projects/Vue/Watchers.md",
-    "1. Projects/Vue/lifecycle hooks.md",
-    "1. Projects/Vue/Form input bindings.md",
-    "1. Projects/Vue/Event handling.md",
-    "1. Projects/Vue/List rendering.md",
-    "1. Projects/Vue/Conditional Rederinng.md",
+    "1. Projects/Algo/test.md",
+    "1. Projects/JS/Proxies.md",
+    "1. Projects/Vue/Class and style bindings.md",
+    "1. Projects/Nuxt3/Auto immport.md",
+    "1. Projects/Nuxt3/Router.md",
+    "conflict-files-obsidian-git.md",
+    "1. Projects/Vue/Components Basics.md",
+    "1. Projects/Rust",
     "1. Projects/JS",
     "1. Projects/Vue",
     "1. Projects/How the web work",
     "4. Archives",
     "3. Resouces",
     "2. Areas",
-    "1. Projects/Algo",
-    "1. Projects"
+    "1. Projects/Algo"
   ]
 }

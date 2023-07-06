@@ -2,3 +2,4 @@
 [[Rendering Modes]]
 [[Vue with nuxt]]
 [[Data fetching]]
+[[State management]]

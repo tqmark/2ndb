@@ -89,3 +89,59 @@ export const fetchWithCookie = async (event: H3Event, url: string) => {
 }
 ```
 
+### [Pass Client Headers to the API](https://nuxt.com/docs/getting-started/data-fetching#pass-client-headers-to-the-api)
+
+We can use [`useRequestHeaders`](https://nuxt.com/docs/api/composables/use-request-headers) to access and proxy cookies to the API from server-side.
+
+The example below adds the request headers to an isomorphic `$fetch` call to ensure that the API endpoint has access to the same `cookie` header originally sent by the user.
+
+```
+<script setup>
+const headers = useRequestHeaders(['cookie'])
+const { data } = await useFetch('/api/me', { headers })
+</script>
+```
+
+### [Custom serializer function](https://nuxt.com/docs/getting-started/data-fetching#custom-serializer-function)
+
+To customize the serialization behavior, you can define a `toJSON` function on your returned object. If you define a `toJSON` method, Nuxt will respect the return type of the function and will not try to convert the types.
+
+server/api/bar.ts
+
+```
+export default defineEventHandler(() => {
+  const data = {
+    createdAt: new Date(),
+
+    toJSON() {
+      return {
+        createdAt: {
+          year: this.createdAt.getFullYear(),
+          month: this.createdAt.getMonth(),
+          day: this.createdAt.getDate(),
+        },
+      }
+    },
+  }
+  return data
+})
+```
+
+Copy to clipboard
+
+app.vue
+
+```
+<script setup lang="ts">
+// Type of `data` is inferred as
+// {
+//   createdAt: {
+//     year: number
+//     month: number
+//     day: number
+//   }
+// }
+const { data } = await useFetch('/api/bar')
+```
+
+[[Data fetching key]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Nuxt3/State management.md",
+                "file": "1. Projects/React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Nuxt3/State management.md",
+                "file": "1. Projects/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Nuxt3/State management.md",
+                "file": "1. Projects/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Nuxt3/State management.md"
+                "file": "1. Projects/React/React.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "8485e4e8675f3176",
   "lastOpenFiles": [
-    "1. Projects/Nuxt3/Nuxt3.md",
     "1. Projects/Nuxt3/State management.md",
+    "1. Projects/React/React.md",
+    "1. Projects/React",
+    "1. Projects/Nuxt3/Nuxt3.md",
     "1. Projects/Nuxt3/useFetch.md",
     "1. Projects/Nuxt3/useNuxtData.md",
     "1. Projects/Vue/Components Basics.md",
@@ -176,7 +178,6 @@
     "1. Projects/Vue/Event handling.md",
     "1. Projects/Vue/List rendering.md",
     "1. Projects/Vue/Conditional Rederinng.md",
-    "1. Projects/Vue/Class and style bindings.md",
     "1. Projects/JS",
     "1. Projects/Vue",
     "1. Projects/How the web work",

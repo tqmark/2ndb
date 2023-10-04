@@ -148,11 +148,32 @@
   },
   "active": "d0b31c8bf6c401c0",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "1. Projects/Algo/test.md",
+    "1. Projects/JS/Proxies.md",
+    "1. Projects/Vue/Class and style bindings.md",
+    "1. Projects/Nuxt3/Nuxt3.md",
+    "1. Projects/Nuxt3/Auto import.md",
+    "1. Projects/Nuxt3/Auto immport.md",
+    "1. Projects/Nuxt3/Router.md",
+    "conflict-files-obsidian-git.md",
+    "1. Projects/Nuxt3/useNuxtData.md",
+    "1. Projects/Nuxt3/refreshNuxtData.md",
+    "1. Projects/Nuxt3/Data fetching.md",
+    "1. Projects/Nuxt3/State management.md",
+    "1. Projects/Nuxt3/useAsyncData.md",
+    "1. Projects/Nuxt3/Vue with nuxt.md",
+    "1. Projects/Nuxt3/useFetch.md",
+    "1. Projects/Nuxt3/Universal rendering.md",
+    "1. Projects/Vue/Components Basics.md",
+>>>>>>> ecd7be9 ([NO-BTS] added loading skeleton)
     "test.md",
     "Pasted image 20230705174423.png",
     "Pasted image 20230705174150.png",
     "1. Projects/Vue/Suspense.md",
     "1. Projects/Untitled.md",
+<<<<<<< HEAD
     "1. Projects/React/React.md",
     "1. Projects/React",
     "1. Projects/Nuxt3/useNuxtData.md",
@@ -179,12 +200,27 @@
     "conflict-files-obsidian-git.md",
     "1. Projects/Vue/Components Basics.md",
     "1. Projects/Rust",
+=======
+    "1. Projects/Nuxt3/Rendering Modes.md",
+    "1. Projects/Nuxt3/Nuxt devtools.md",
+    "1. Projects/Nuxt3/Data fetching key.md",
+    "1. Projects/Nuxt3/Client-Side Rendering.md",
+    "1. Projects/Nuxt3/$fetch.md",
+    "1. Projects/Nuxt3",
+    "1. Projects/Rust",
+    "1. Projects/Vue/Template Refs.md",
+>>>>>>> ecd7be9 ([NO-BTS] added loading skeleton)
     "1. Projects/JS",
     "1. Projects/Vue",
     "1. Projects/How the web work",
     "4. Archives",
     "3. Resouces",
     "2. Areas",
+<<<<<<< HEAD
     "1. Projects/Algo"
+=======
+    "1. Projects/Algo",
+    "1. Projects"
+>>>>>>> ecd7be9 ([NO-BTS] added loading skeleton)
   ]
 }

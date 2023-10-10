@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "caef177aa81adf99",
+    "id": "01e98721e0384f9e",
     "type": "split",
     "children": [
       {
-        "id": "ec11f0159af6a15f",
+        "id": "c9112da5870cbbd4",
         "type": "tabs",
         "children": [
           {
-            "id": "d0b31c8bf6c401c0",
+            "id": "c495b17a1c69e772",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/How the web work/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f6c2213766cf29c3",
+    "id": "ef89f945d42c4973",
     "type": "split",
     "children": [
       {
-        "id": "b17b82b056177b5a",
+        "id": "1bab47fde5214fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "035b8f81b40f8ae7",
+            "id": "a6553b06d2120a98",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "87204aa533a90439",
+            "id": "05801ec9ab1c2fea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "5b83ea39b1e21661",
+            "id": "4b715dee8ad931af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "5e1b4c572f1b977e",
+    "id": "0a3a91c1d2e2c140",
     "type": "split",
     "children": [
       {
-        "id": "63b743c8c439dc87",
+        "id": "8c7ff5e6b2cb7259",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4b4c24bc281920",
+            "id": "8700068642c2c836",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/How the web work/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "7ec4cc0f3e250103",
+            "id": "a78d5c61af876b5f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/How the web work/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8fe642731be4af89",
+            "id": "518cb2f2b5b42b43",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "ddf8da0c66cb8a73",
+            "id": "12329b95c7167766",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Projects/How the web work/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,81 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0b31c8bf6c401c0",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "1. Projects/Algo/test.md",
-    "1. Projects/JS/Proxies.md",
-    "1. Projects/Vue/Class and style bindings.md",
-    "1. Projects/Nuxt3/Nuxt3.md",
-    "1. Projects/Nuxt3/Auto import.md",
-    "1. Projects/Nuxt3/Auto immport.md",
-    "1. Projects/Nuxt3/Router.md",
-    "conflict-files-obsidian-git.md",
-    "1. Projects/Nuxt3/useNuxtData.md",
-    "1. Projects/Nuxt3/refreshNuxtData.md",
-    "1. Projects/Nuxt3/Data fetching.md",
-    "1. Projects/Nuxt3/State management.md",
-    "1. Projects/Nuxt3/useAsyncData.md",
-    "1. Projects/Nuxt3/Vue with nuxt.md",
-    "1. Projects/Nuxt3/useFetch.md",
-    "1. Projects/Nuxt3/Universal rendering.md",
-    "1. Projects/Vue/Components Basics.md",
->>>>>>> ecd7be9 ([NO-BTS] added loading skeleton)
-    "test.md",
-    "Pasted image 20230705174423.png",
-    "Pasted image 20230705174150.png",
-    "1. Projects/Vue/Suspense.md",
-    "1. Projects/Untitled.md",
-<<<<<<< HEAD
-    "1. Projects/React/React.md",
-    "1. Projects/React",
-    "1. Projects/Nuxt3/useNuxtData.md",
-    "1. Projects/Nuxt3/useFetch.md",
-    "1. Projects/Nuxt3/useAsyncData.md",
-    "1. Projects/Nuxt3/refreshNuxtData.md",
-    "1. Projects/Nuxt3/Vue with nuxt.md",
-    "1. Projects/Nuxt3/Universal rendering.md",
-    "1. Projects/Nuxt3/State management.md",
-    "1. Projects/Nuxt3/Rendering Modes.md",
-    "1. Projects/Nuxt3/Nuxt3.md",
-    "1. Projects/Nuxt3/Nuxt devtools.md",
-    "1. Projects/Nuxt3/Data fetching.md",
-    "1. Projects/Nuxt3/Data fetching key.md",
-    "1. Projects/Nuxt3/Auto import.md",
-    "1. Projects/Nuxt3/Client-Side Rendering.md",
-    "1. Projects/Nuxt3/$fetch.md",
-    "1. Projects/Nuxt3",
-    "1. Projects/Algo/test.md",
-    "1. Projects/JS/Proxies.md",
-    "1. Projects/Vue/Class and style bindings.md",
-    "1. Projects/Nuxt3/Auto immport.md",
-    "1. Projects/Nuxt3/Router.md",
-    "conflict-files-obsidian-git.md",
-    "1. Projects/Vue/Components Basics.md",
-    "1. Projects/Rust",
-=======
-    "1. Projects/Nuxt3/Rendering Modes.md",
-    "1. Projects/Nuxt3/Nuxt devtools.md",
-    "1. Projects/Nuxt3/Data fetching key.md",
-    "1. Projects/Nuxt3/Client-Side Rendering.md",
-    "1. Projects/Nuxt3/$fetch.md",
-    "1. Projects/Nuxt3",
-    "1. Projects/Rust",
-    "1. Projects/Vue/Template Refs.md",
->>>>>>> ecd7be9 ([NO-BTS] added loading skeleton)
-    "1. Projects/JS",
-    "1. Projects/Vue",
-    "1. Projects/How the web work",
-    "4. Archives",
-    "3. Resouces",
-    "2. Areas",
-<<<<<<< HEAD
-    "1. Projects/Algo"
-=======
-    "1. Projects/Algo",
-    "1. Projects"
->>>>>>> ecd7be9 ([NO-BTS] added loading skeleton)
-  ]
+  "active": "c495b17a1c69e772",
+  "lastOpenFiles": []
 }

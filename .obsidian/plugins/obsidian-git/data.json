@@ -1,17 +1,17 @@
 {
-  "commitMessage": "2ndb: {{date}}",
-  "commitDateFormat": "DD-MM-YY HH:mm",
-  "autoSaveInterval": 60,
+  "commitMessage": "mark backup: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
-  "disablePopups": true,
+  "disablePopups": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "syncMethod": "rebase",
+  "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "2ndb backup: {{date}}"
+  "autoCommitMessage": "mark backup: {{date}}"
 }

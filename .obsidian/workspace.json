@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "85bb01407b087378",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,6 +149,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c495b17a1c69e772",
+  "active": "85bb01407b087378",
   "lastOpenFiles": []
 }

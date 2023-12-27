@@ -21,14 +21,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/JS/Proxies.md",
+                "file": "1. Projects/JS/Unicode.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "38c43c130d511b9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/JS/Proxies.md",
+                "file": "1. Projects/JS/Unicode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/JS/Proxies.md",
+                "file": "1. Projects/JS/Unicode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/JS/Proxies.md"
+                "file": "1. Projects/JS/Unicode.md"
               }
             }
           }
@@ -155,6 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85bb01407b087378",
-  "lastOpenFiles": []
+  "active": "38c43c130d511b9f",
+  "lastOpenFiles": [
+    "1. Projects/JS/Proxies.md",
+    "1. Projects/JS/Unicode.md"
+  ]
 }

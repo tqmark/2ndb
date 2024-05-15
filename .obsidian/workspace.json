@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Rust/Owner ship.md",
+                "file": "1. Projects/economix/Invisible hand.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Rust/Owner ship.md",
+                "file": "1. Projects/economix/Invisible hand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Rust/Owner ship.md",
+                "file": "1. Projects/economix/Invisible hand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Rust/Owner ship.md"
+                "file": "1. Projects/economix/Invisible hand.md"
               }
             }
           }
@@ -179,8 +179,10 @@
   },
   "active": "62200ec3115b092f",
   "lastOpenFiles": [
-    "1. Projects/Rust/Data type.md",
     "1. Projects/Rust/Owner ship.md",
+    "1. Projects/economix/Invisible hand.md",
+    "1. Projects/economix",
+    "1. Projects/Rust/Data type.md",
     "1. Projects/Untitled.md",
     "1. Projects/Rust",
     "1. Projects/JS/Proxies.md",

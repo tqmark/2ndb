@@ -48,9 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ba506098eaca726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Rust/Owner ship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/economix/Invisible hand.md",
+                "file": "1. Projects/Rust/Owner ship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/economix/Invisible hand.md",
+                "file": "1. Projects/Rust/Owner ship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/economix/Invisible hand.md"
+                "file": "1. Projects/Rust/Owner ship.md"
               }
             }
           }
@@ -177,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62200ec3115b092f",
+  "active": "0ba506098eaca726",
   "lastOpenFiles": [
     "1. Projects/Rust/Owner ship.md",
     "1. Projects/economix/Invisible hand.md",

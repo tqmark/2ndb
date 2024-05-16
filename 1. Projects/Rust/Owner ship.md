@@ -17,3 +17,5 @@ Immutable references &T which allow read-only access to the value without changi
 Mutable references &mut T, which allow modifying the value. Only one mutable reference ua allow at a time to prevent data race 
 
 Slices is a reference to a contiguous sequence within a collection, array or string, it allow safe access to a portion of the collection without ownership
+slices is just peeking at a portion of the data without modifying the original data
+

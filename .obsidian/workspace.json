@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Rust/Owner ship.md",
+                "file": "1. Projects/MP/Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Rust/Owner ship.md",
+                "file": "1. Projects/MP/Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Rust/Owner ship.md",
+                "file": "1. Projects/MP/Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Rust/Owner ship.md"
+                "file": "1. Projects/MP/Flow.md"
               }
             }
           }
@@ -191,7 +191,10 @@
   },
   "active": "0ba506098eaca726",
   "lastOpenFiles": [
+    "1. Projects/MP/Common.md",
+    "1. Projects/MP/Flow.md",
     "1. Projects/Rust/Owner ship.md",
+    "1. Projects/MP",
     "1. Projects/economix/Invisible hand.md",
     "1. Projects/economix",
     "1. Projects/Rust/Data type.md",
